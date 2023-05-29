@@ -47,7 +47,7 @@ int *count, va_list list)
 			flag[k].fun(flagg, flag[k].ch, j, ap, count);
 		p[j].fun(list, count);
 		*i = index;
-	}	
+	}
 }
 /**
 *_printf - printf
