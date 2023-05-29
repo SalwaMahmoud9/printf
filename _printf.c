@@ -49,6 +49,7 @@ int *count, va_list list)
 		*i = index;
 	}
 }
+
 /**
 *_printf - printf
 *@format: string format
