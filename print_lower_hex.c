@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_lowerhex - print_lowerhex
+ * print_lower_hex - print_lowerhex
  *@list: args list pointer
  *@count: counter pointer
  *Return: value

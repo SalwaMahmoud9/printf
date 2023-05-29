@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*print_upperhex - print upperhex
+*print_upper_hex - print upperhex
 *@list: args list pointer
 *@count: counter pointer
 *Return: value
