@@ -50,7 +50,6 @@ int *count, va_list list)
 	}	
 }
 
-
 /**
 *_printf - printf
 *@format: string format
