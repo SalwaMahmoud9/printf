@@ -27,7 +27,7 @@ typedef struct signs
 	void (*fun)(int, char, int, va_list, int *);
 } sign;
 
-int _strlen(char *s);
+int _strlen(char *str);
 int _printf(const char *format, ...);
 
 int spIndex(char ch, struct sp_char *pArr);
